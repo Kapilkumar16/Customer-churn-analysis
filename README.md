@@ -1,8 +1,5 @@
 # Customer-churn-analysis
 
-Here's the executive summary in the correct formatting:
-
-**Executive Summary**
 
 **Objective:**
 
@@ -49,4 +46,4 @@ The analysis explores customer churn patterns, focusing on various factors such 
 * **Customer Engagement in Early Tenure:** Focus on improving the customer experience within the first year, as churn is highest in this period.
 * **Special Senior Citizen Retention Programs:** Create personalized offers or assistance programs to retain the senior demographic.
 
-I hope this revised version with proper formatting is more helpful!
+
